@@ -1,0 +1,40 @@
+Coursework Brief
+Task To Be Done
+You are given the ML Coursework Dataset (access it via the link) to build a multilayer perceptron
+model that can be used for forecasting the export value of crop products for a geographical region
+three years into the future (e.g. given historical data up until or at Year 2984, your model can predict
+the export value of crop products for Year 2987). Your model is allowed to be either a regression
+model or a classification model. For more information about the dataset, see the README file
+included in the dataset folder.
+What To Submit
+You are to submit THREE separate documents clarified in items A-C below. Do NOT submit them as
+zipped (or other compressed) files. Make sure the file name and content for each of the 3 files
+indicate your Candidate No. (and not your name).
+A. (90 marks) Report - Prepare a report that answers ALL 4 questions below. Use the EXACT
+question themes highlighted in bold as section titles for your report, so that your report has 4
+(titled) sections exactly. Submit the document as a single pdf file.
+1. (15 marks) Performance
+• (8 marks max) Report the performance of your model, and also describe (using
+maths formulae if appropriate) how the reported performance was computed
+from the model outputs.
+• (7 marks max) State clearly the total number of instances used and then the
+number of instances in your training and test sets and how these sets were
+derived from the given data.
+2. (20 marks) MLP model
+• (11 marks max) Describe your multilayer perceptron (MLP) model, making sure
+to specify (including maths formulae when appropriate) at the very least the
+activation function for its output layer, the loss function used to train it, and the
+number of units in its output layer.
+• (9 marks max) List and describe the steps that you took to prevent overfitting
+for your model (using maths formulae when appropriate).
+3. (35 marks) Features & Labels
+Machine Learning @ University of Sussex – 2024 (Temitayo Olugbade)
+• (10 marks max) Describe (as a list) how the label(s) was/were derived from the
+given data (using maths formulae when appropriate).
+• (25 marks max) Report the features that you used for your model, making sure
+to specify the features used and the total number used, clarify why these
+features were selected, and describe (as a list) how they were derived from the
+given data, if applicable.
+4. (20 marks) Preprocessing
+• (20 marks max) List and describe the preprocessing that you did on your
+features for building your model (using maths formulae when appropriate).
